@@ -65,7 +65,6 @@ Machine-Learning-Algorithms/
 
 The final module, **Ensemble Learning Project**, brings together everything covered in the repository — applying and benchmarking Random Forests, Gradient Boosting, XGBoost, LightGBM, and CatBoost on a real dataset, with a comparative analysis of accuracy, training time, and robustness to imbalanced classes.
 
- <img src="images/5.gif" alt="IMAGE" style="width:100%; height:auto;" />
 
 ## 📄 License
 
