@@ -2,6 +2,8 @@
 
 A structured, hands-on collection of notebooks and resources covering ensemble learning methods in machine learning — from foundational bagging techniques to modern gradient boosting frameworks, with a final project applying and comparing these algorithms on a real dataset.
 
+ <img src="images/EN 4.png" alt="IMAGE" style="width:100%; height:auto;" />
+
 ## 📚 Contents
 
 | # | Topic | Description |
