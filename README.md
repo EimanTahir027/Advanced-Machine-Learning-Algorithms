@@ -22,9 +22,11 @@ A structured, hands-on collection of notebooks and resources covering ensemble l
 <img src="images/ensemble.png" alt="IMAGE" style="width:100%; height:auto;" />
 
 - Implement bagging- and boosting-based algorithms from the ground up and using popular libraries
- <img src="images/BB.png" alt="IMAGE" style="width:100%; height:auto;" />
+<img src="images/BB.png" alt="IMAGE" style="width:100%; height:auto;" />
  
 - Compare the strengths, trade-offs, and use cases of Random Forests, Gradient Boosting, XGBoost, LightGBM, and CatBoost
+<img src="images/COMPARE.png" alt="IMAGE" style="width:100%; height:auto;" />
+
 - Apply strategies for handling imbalanced datasets in real-world scenarios
 - Consolidate learning through a comparative project on a real dataset
 
