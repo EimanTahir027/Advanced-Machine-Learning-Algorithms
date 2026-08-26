@@ -28,7 +28,10 @@ A structured, hands-on collection of notebooks and resources covering ensemble l
 <img src="images/COMPARE.png" alt="IMAGE" style="width:100%; height:auto;" />
 
 - Apply strategies for handling imbalanced datasets in real-world scenarios
+<img src="images/ROC.gif" alt="IMAGE" style="width:100%; height:auto;" />
+
 - Consolidate learning through a comparative project on a real dataset
+- <img src="images/PROJECT.png" alt="IMAGE" style="width:100%; height:auto;" />
 
 ## 🛠️ Tech Stack
 
