@@ -1,4 +1,4 @@
-# Machine Learning Algorithms
+# Advanced Machine Learning Algorithms:
 
 A structured, hands-on collection of notebooks and resources covering ensemble learning methods in machine learning — from foundational bagging techniques to modern gradient boosting frameworks, with a final project applying and comparing these algorithms on a real dataset.
 
